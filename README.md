@@ -35,4 +35,6 @@ Planejo adicionar as seguintes funcionalidades e melhorias no futuro:
 Caso queira visualizar este projeto em sua máquina local, siga os passos abaixo:
 
 1. Clone o repositório:
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   https://github.com/Guilherme-G01/Projeto-Portif-lio
+   
+   
