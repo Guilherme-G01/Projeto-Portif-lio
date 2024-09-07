@@ -1,4 +1,4 @@
-# Meu Portfólio Online
+# Meu Portfólio Online - Imersão Dev AluraGemini
 
 Este é o meu primeiro projeto de front-end, onde desenvolvi um portfólio pessoal utilizando as linguagens **HTML**, **CSS** e **JavaScript**. O objetivo principal foi praticar e aprimorar minhas habilidades em desenvolvimento web e criar uma plataforma para mostrar meus projetos e meu progresso na área de tecnologia.
 
